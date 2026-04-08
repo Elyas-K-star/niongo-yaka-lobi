@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Proxy Nginx pour VPS (167.99.88.149)
 
 Proxy Nginx déployé sur Google Cloud Run pour rediriger le trafic TCP vers le VPS principal.
@@ -8,8 +7,8 @@ Proxy Nginx déployé sur Google Cloud Run pour rediriger le trafic TCP vers le 
 |---------|--------|
 | **VPS cible** | `167.99.88.149:443` |
 | **Port d'écoute proxy** | `8080` |
-| **Région VPS** | `europe-west3` (Francfort, Allemagne) |
-| **Région Cloud Run** | `europe-west3` (Francfort, Allemagne) |
+| **Région VPS** | `europe-west2` (Londres, Royaume-Uni) |
+| **Région Cloud Run** | `europe-west2` (Londres, Royaume-Uni) |
 | **Type de proxy** | TCP Stream (Layer 4) |
 
 ## Déploiement
@@ -17,7 +16,7 @@ Proxy Nginx déployé sur Google Cloud Run pour rediriger le trafic TCP vers le 
 gcloud run deploy ultra-speed-proxy \
   --source . \
   --platform managed \
-  --region europe-west3 \
+  --region europe-west2 \
   --allow-unauthenticated \
   --port 8080 \
   --memory 512Mi \
