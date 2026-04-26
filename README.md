@@ -132,13 +132,19 @@ graph TD
 
 ---
 
-📝 Fichiers inclus
+<br>
+
+📝 FICHIERS INCLUS
+
+<div align="center">
 
 📄 Fichier 📝 Description
-Dockerfile Configuration Docker
-nginx.conf Configuration Nginx
-config.json Configuration V2Ray
-README.md Documentation
+Dockerfile Configuration Docker du proxy
+nginx.conf Configuration Nginx (TCP Stream)
+README.md Documentation complète
+
+</div>
+
 
 ---
 
