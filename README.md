@@ -167,21 +167,31 @@ graph TD
 
 ---
 
-🤝 Contribution
+## 🤝 **Contribution**
 
-<div align="center">
+Les contributions font de la communauté open source un endroit incroyable pour apprendre, inspirer et créer. **Toutes les contributions sont grandement appréciées !**
 
-📝 Comment contribuer ?
+### 📝 Comment contribuer ?
 
-1. 🍴 Fork le projet
-2. 🌿 Crée une branche (git checkout -b feature/amazing)
-3. 💾 Commit (git commit -m 'Add amazing feature')
-4. 📤 Push (git push origin feature/amazing)
-5. 🔃 Ouvre une Pull Request
+1. 🍴 **Fork** le projet
+2. 🌿 **Crée** une branche (`git checkout -b feature/amazing`)
+3. 💾 **Commit** vos changements (`git commit -m 'Add amazing feature'`)
+4. 📤 **Push** la branche (`git push origin feature/amazing`)
+5. 🔃 **Ouvre** une Pull Request
 
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github">
+<br>
 
-</div>
+**✨ Standards de contribution :**
+- 📏 Suivez le style de code existant
+- 📝 Documentez les nouvelles fonctionnalités
+- ✅ Testez vos changements avant de les soumettre
+- 🐛 Reportez les bugs via les issues GitHub
+
+<br>
+
+<img src="https://img.shields.io/badge/📊 PRs-Welcome-brightgreen?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🐛 Issues-Welcome-blue?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/⭐ Stars-Appreciated-yellow?style=for-the-badge&logo=github">
 
 ---
 
