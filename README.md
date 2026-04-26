@@ -132,19 +132,17 @@ graph TD
 
 ---
 
-<br>
-
-📝 FICHIERS INCLUS
+## 📁 **FICHIERS INCLUS**
 
 <div align="center">
-
-📄 Fichier 📝 Description
-Dockerfile Configuration Docker du proxy
-nginx.conf Configuration Nginx (TCP Stream)
-README.md Documentation complète
+  
+| 📄 **Fichier** | 📝 **Description** | 🏷️ **Version** |
+|:--------------:|:------------------:|:--------------:|
+| <code>🐳 Dockerfile</code> | Configuration Docker du proxy | ![Version](https://img.shields.io/badge/v1.0-blue) |
+| <code>🛠️ nginx.conf</code> | Configuration Nginx (TCP Stream) | ![Version](https://img.shields.io/badge/v1.0-blue) |
+| <code>📖 README.md</code> | Documentation complète | ![Version](https://img.shields.io/badge/latest-green) |
 
 </div>
-
 
 ---
 
